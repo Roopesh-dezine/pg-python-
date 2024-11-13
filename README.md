@@ -40,3 +40,17 @@ PROGRAM-8 output
 
 ![Screenshot 2024-11-06 100049](https://github.com/user-attachments/assets/4df56ea9-893b-4979-a511-e559ddf9b570)
 
+PROGRAM-10 output
+
+![Screenshot 2024-11-12 164116](https://github.com/user-attachments/assets/a086889f-dc2e-4f57-b171-fceff17766fb)
+
+PROGRAM-11 output
+
+![Screenshot 2024-11-12 164336](https://github.com/user-attachments/assets/76a995be-7b76-4c25-843e-13429357c7a6)
+![Screenshot 2024-11-12 164304](https://github.com/user-attachments/assets/1907e923-2629-46b2-991a-70bb562ccf31)
+![Screenshot 2024-11-12 164240](https://github.com/user-attachments/assets/a118c0c6-9a84-48d1-a4c7-54ce2a1b4233)
+![Screenshot 2024-11-12 164204](https://github.com/user-attachments/assets/474fcaff-8487-4fab-982b-d926e79232a8)
+
+PROGRAM-12 output
+
+![Screenshot 2024-11-12 164625](https://github.com/user-attachments/assets/a86b4bf8-0eef-4089-ac66-79cad626154e)
