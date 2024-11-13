@@ -34,6 +34,7 @@ PROGRAM-6 output
 
 
 PROGRAM-7 output
+
 ![Screenshot 2024-11-06 095907](https://github.com/user-attachments/assets/8134416f-e4d7-44aa-9c2c-ca8391dc080f)
 
 PROGRAM-8 output
